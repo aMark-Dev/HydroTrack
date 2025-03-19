@@ -32,7 +32,7 @@ Um sistema simples de monitoramento de consumo de água diário, desenvolvido em
 
 ---
    
-##🖥️ Uso
+## 🖥️ Uso
 
 Comandos:
 
